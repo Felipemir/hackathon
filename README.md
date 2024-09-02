@@ -180,7 +180,7 @@ Para garantir uma boa colaboração e alinhamento, responda às seguintes pergun
 
 ## Prazo ⏳
 
-A duração do hackathon é de 15 dias. Garanta que o projeto esteja completo e funcional até a data final.
+A duração do hackathon é de 20 dias. Garanta que o projeto esteja completo e funcional até a data final.
 
 ## Instruções de Entrega 📬
 
