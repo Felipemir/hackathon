@@ -1,9 +1,9 @@
 
-# 📚 Hackathon E-commerce para Bairros
+# 📚 Hackathon E-commerce
 
 **Bem-vindo ao Hackathon** Esta é a sua chance de mostrar suas habilidades, aprender novas tecnologias e colaborar com outros talentos em uma competição empolgante.
 
-Neste hackathon, você e sua equipe criarão um **e-commerce simples para pequenos negócios de bairro**, como lanchonetes, pizzarias, sorveterias e outros. O objetivo é desenvolver uma solução que facilite a venda online para esses estabelecimentos, aproximando-os de seus clientes e expandindo seu alcance.
+Você e sua equipe criarão um **e-commerce simples para pequenos negócios de bairro**, como lanchonetes, pizzarias, sorveterias e outros. O objetivo é desenvolver uma solução que facilite a venda online para esses estabelecimentos, aproximando-os de seus clientes e expandindo seu alcance.
 
 **Importante:** A equipe deverá decidir se irá criar o e-commerce para um **empreendimento real** ou um **comércio fictício**. Ao tomar essa decisão, é fundamental que a equipe identifique e considere uma necessidade específica. Por exemplo, se escolherem um comércio real, verifiquem se o negócio está em fase de início ou precisa de uma solução digital para expandir suas vendas. Se optarem por um comércio fictício, pensem em um tipo de negócio que poderia se beneficiar de um e-commerce e desenvolvam uma proposta que atenda a essas necessidades.
 
